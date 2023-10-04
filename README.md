@@ -1,4 +1,4 @@
-# Material Termodinamica de los Procesos
+# Material Termodinamica de los Procesos (FIUBA)
 
 ### Resueltos:
 * https://drive.google.com/file/d/1JZ9tEosC32y6SxWHJjve7rQSkC-fn_nN/view?usp=drivesdk (Parciales)
